@@ -1,4 +1,4 @@
-# NFA Simulation - Futuristic Neon
+# NFA Simulation 
 
 ## Project Overview
 
@@ -54,7 +54,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/gotamk-786/NFA Simulation - Futuristic Neon.git
+   git clone https://github.com/gotamk-786/NFA Simulation.git
 
    ```
 
