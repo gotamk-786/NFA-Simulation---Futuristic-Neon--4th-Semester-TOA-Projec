@@ -1,0 +1,2 @@
+# NFA Simulation - Futuristic Neon
+Overview This project is a web-based simulation tool for demonstrating the behavior of a Non-deterministic Finite Automaton (NFA). Users can define states, transition rules, start/accepting states, and simulate how the automaton processes input strings. The tool visually represents the NFA and shows how it transitions between states, providing an educational tool for learning automata theory.
