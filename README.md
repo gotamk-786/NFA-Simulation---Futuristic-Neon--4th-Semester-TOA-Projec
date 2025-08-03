@@ -54,7 +54,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/gotamk-786/NFA-Simulation.git
+   git clone https://github.com/gotamk-786/NFA Simulation - Futuristic Neon.git
 
    ```
 
